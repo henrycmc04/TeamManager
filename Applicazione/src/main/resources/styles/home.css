@@ -1,0 +1,102 @@
+.root {
+    -fx-font-family: "Segoe UI", "Roboto", "Arial";
+    -fx-background-color: #ffffff;
+}
+
+/* ===== TOP BAR ===== */
+.top-bar {
+    -fx-background-color: #1e3a8a;
+    -fx-padding: 15 20;
+}
+
+.societa-label {
+    -fx-text-fill: #FFD700;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+.top-bar Button {
+    -fx-background-color: transparent;
+    -fx-text-fill: #FFD700;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
+
+.top-bar Button:hover {
+    -fx-text-fill: #ffec70;
+}
+
+/* ===== FILTRI ===== */
+.filter-bar {
+    -fx-padding: 10 0 15 0;
+}
+
+.filter-bar Label {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #1e3a8a;
+}
+
+.filter-bar ComboBox {
+    -fx-pref-width: 220px;
+}
+
+/* ===== AZIONI ===== */
+.primary-action {
+    -fx-background-color: #1e3a8a;
+    -fx-text-fill: #FFD700;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 8 18;
+    -fx-background-radius: 6;
+    -fx-cursor: hand;
+}
+
+.primary-action:hover {
+    -fx-background-color: #2739b3;
+}
+
+/* ===== TABLE VIEW ===== */
+.giocatori-table {
+    -fx-border-color: #e5e7eb;
+    -fx-border-radius: 8;
+    -fx-background-radius: 8;
+    -fx-pref-height: 0; /* permette al VBox di gestire altezza */
+}
+
+.giocatori-table .column-header-background {
+    -fx-background-color: #f3f4f6;
+}
+
+.giocatori-table .column-header {
+    -fx-font-weight: bold;
+    -fx-text-fill: #1e3a8a;
+    -fx-padding: 10;
+}
+
+.giocatori-table .table-row-cell {
+    -fx-background-color: white;
+}
+
+.giocatori-table .table-row-cell:filled:hover {
+    -fx-background-color: #f0f4ff;
+}
+
+.giocatori-table .table-row-cell:filled:selected {
+    -fx-background-color: #c7d2fe;
+}
+
+/* ===== SCADENZE ===== */
+.row-scaduto {
+    -fx-background-color: #fdecea;
+}
+
+.row-in-scadenza {
+    -fx-background-color: #fff4cc;
+}
+
+/* ===== UTIL ===== */
+.separator {
+    -fx-background-color: #e5e7eb;
+}

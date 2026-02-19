@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:id="root"
+            fx:controller="progetto.applicazione.controller.HomeController"
+            stylesheets="@/styles/home.css">
+
+    <top>
+        <HBox spacing="20" styleClass="top-bar">
+            <padding>
+                <Insets top="10" right="10" bottom="10" left="10"/>
+            </padding>
+
+            <Label text="Società XYZ"
+                   fx:id="societaLabel"
+                   styleClass="societa-label"/>
+
+            <Region HBox.hgrow="ALWAYS"/>
+
+            <Button text="Logout"
+                    onAction="#handleLogout"/>
+        </HBox>
+    </top>
+
+    <center>
+        <VBox spacing="10" VBox.vgrow="ALWAYS">
+            <padding>
+                <Insets top="10" right="10" bottom="10" left="10"/>
+            </padding>
+
+            <HBox spacing="10" alignment="CENTER_LEFT" styleClass="filter-bar">
+                <Label text="Squadra:"/>
+                <ComboBox fx:id="squadraComboBox" prefWidth="200"/>
+                <Region HBox.hgrow="ALWAYS"/>
+                <Button text="➕ Aggiungi giocatore"
+                        styleClass="primary-action"
+                        onAction="#handleAggiungiGiocatore"/>
+            </HBox>
+
+            <TableView fx:id="giocatoriTable" VBox.vgrow="ALWAYS" styleClass="giocatori-table">
+                <columns>
+                    <TableColumn fx:id="nomeColumn" text="Nome" prefWidth="120"/>
+                    <TableColumn fx:id="cognomeColumn" text="Cognome" prefWidth="120"/>
+                    <TableColumn fx:id="codiceFiscaleColumn" text="Codice Fiscale" prefWidth="150"/>
+                    <TableColumn fx:id="categoriaColumn" text="Squadra" prefWidth="120"/>
+                    <TableColumn fx:id="scadenzaColumn" text="Scadenza certificato" prefWidth="180"/>
+                    <TableColumn fx:id="giorniColumn" text="Giorni rimanenti" prefWidth="140"/>
+                </columns>
+            </TableView>
+        </VBox>
+    </center>
+
+</BorderPane>

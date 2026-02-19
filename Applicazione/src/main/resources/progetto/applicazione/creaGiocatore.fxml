@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+<VBox spacing="15" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="progetto.applicazione.controller.CreaGiocatoreController"
+      prefWidth="450" 
+      stylesheets="@/styles/creagiocatore.css">
+    
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+
+    <Label text="Registrazione Nuovo Atleta" styleClass="header-label-form"/>
+
+    <GridPane hgap="15" vgap="12">
+        <columnConstraints>
+            <ColumnConstraints minWidth="120" />
+            <ColumnConstraints hgrow="ALWAYS" />
+        </columnConstraints>
+
+        <Label text="Nome:" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+        <TextField fx:id="nomeField" GridPane.rowIndex="0" GridPane.columnIndex="1"/>
+
+        <Label text="Cognome:" GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+        <TextField fx:id="cognomeField" GridPane.rowIndex="1" GridPane.columnIndex="1"/>
+
+        <Label text="Codice Fiscale:" GridPane.rowIndex="2" GridPane.columnIndex="0"/>
+        <TextField fx:id="cfField" GridPane.rowIndex="2" GridPane.columnIndex="1"/>
+
+        <Label text="Data di Nascita:" GridPane.rowIndex="3" GridPane.columnIndex="0"/>
+        <DatePicker fx:id="nascitaPicker" GridPane.rowIndex="3" GridPane.columnIndex="1" maxWidth="Infinity"/>
+
+        <Label text="Sesso:" GridPane.rowIndex="4" GridPane.columnIndex="0"/>
+        <ComboBox fx:id="sessoComboBox" GridPane.rowIndex="4" GridPane.columnIndex="1" maxWidth="Infinity"/>
+
+        <Label text="Squadra/Categoria:" GridPane.rowIndex="5" GridPane.columnIndex="0"/>
+        <ComboBox fx:id="categoriaComboBox" GridPane.rowIndex="5" GridPane.columnIndex="1" maxWidth="Infinity" promptText="Seleziona o scrivi..."/>
+
+        <Label text="Scadenza Certificato:" GridPane.rowIndex="6" GridPane.columnIndex="0"/>
+        <DatePicker fx:id="scadenzaPicker" GridPane.rowIndex="6" GridPane.columnIndex="1" maxWidth="Infinity"/>
+    </GridPane>
+
+    <Separator />
+
+    <HBox spacing="10" alignment="CENTER_RIGHT">
+        <Button text="Annulla" onAction="#handleAnnulla" styleClass="secondary-action" prefWidth="100"/>
+        
+        <Button text="Salva Atleta" onAction="#handleSalva" styleClass="primary-action" prefWidth="120"/>
+    </HBox>
+</VBox>

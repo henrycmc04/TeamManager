@@ -1,0 +1,902 @@
+[
+	{
+		"nome": "Ishmael",
+		"cognome": "Wooten",
+		"dataNascita": "1999-09-30",
+		"codiceFiscale": "ABKOCA00G003000I",
+		"sesso": "M",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-10-14"
+	},
+	{
+		"nome": "Leroy",
+		"cognome": "Gay",
+		"dataNascita": "2007-05-17",
+		"codiceFiscale": "ABLjrI00G007000I",
+		"sesso": "F",
+		"categoria": "U19",
+		"scadenzaCertificato": "2027-01-03"
+	},
+	{
+		"nome": "Burton",
+		"cognome": "Lyons",
+		"dataNascita": "1998-03-01",
+		"codiceFiscale": "ABVomU00G008000I",
+		"sesso": "F",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-05-11"
+	},
+	{
+		"nome": "Preston",
+		"cognome": "Moses",
+		"dataNascita": "2002-12-07",
+		"codiceFiscale": "ABYDvI00G00D000I",
+		"sesso": "F",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-10-17"
+	},
+	{
+		"nome": "Kevin",
+		"cognome": "Pena",
+		"dataNascita": "2014-07-14",
+		"codiceFiscale": "ABDhtI00G005000I",
+		"sesso": "M",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-04-02"
+	},
+	{
+		"nome": "Paki",
+		"cognome": "Hawkins",
+		"dataNascita": "2009-06-28",
+		"codiceFiscale": "ABQYhi00G008000I",
+		"sesso": "M",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-06-01"
+	},
+	{
+		"nome": "Kuame",
+		"cognome": "Navarro",
+		"dataNascita": "2006-03-17",
+		"codiceFiscale": "ABRHlo00G006000I",
+		"sesso": "M",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-03-03"
+	},
+	{
+		"nome": "Gabriel",
+		"cognome": "Ewing",
+		"dataNascita": "2011-05-11",
+		"codiceFiscale": "ABKmQE00G004000I",
+		"sesso": "F",
+		"categoria": "U13",
+		"scadenzaCertificato": "2026-09-09"
+	},
+	{
+		"nome": "Randall",
+		"cognome": "Greer",
+		"dataNascita": "2015-08-22",
+		"codiceFiscale": "ABWRYE00G004000I",
+		"sesso": "M",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2027-01-06"
+	},
+	{
+		"nome": "Omar",
+		"cognome": "Spence",
+		"dataNascita": "1995-02-20",
+		"codiceFiscale": "ABPRla00G00A000I",
+		"sesso": "M",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-05-12"
+	},
+	{
+		"nome": "Cooper",
+		"cognome": "Fletcher",
+		"dataNascita": "1998-12-23",
+		"codiceFiscale": "ABSCHe00G001000I",
+		"sesso": "F",
+		"categoria": "U15",
+		"scadenzaCertificato": "2026-03-12"
+	},
+	{
+		"nome": "Brody",
+		"cognome": "Tyler",
+		"dataNascita": "2002-07-09",
+		"codiceFiscale": "ABYunA00G006000I",
+		"sesso": "F",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-07-22"
+	},
+	{
+		"nome": "Curran",
+		"cognome": "Lester",
+		"dataNascita": "2014-10-03",
+		"codiceFiscale": "ABBWRo00G007000I",
+		"sesso": "F",
+		"categoria": "U19",
+		"scadenzaCertificato": "2026-06-05"
+	},
+	{
+		"nome": "Kenyon",
+		"cognome": "Boyd",
+		"dataNascita": "2008-01-10",
+		"codiceFiscale": "ABMQXi00G00A000I",
+		"sesso": "F",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-01-12"
+	},
+	{
+		"nome": "Shad",
+		"cognome": "Schneider",
+		"dataNascita": "2000-08-13",
+		"codiceFiscale": "ABFCQI00G006000I",
+		"sesso": "F",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-09-30"
+	},
+	{
+		"nome": "Hyatt",
+		"cognome": "Craft",
+		"dataNascita": "2014-12-11",
+		"codiceFiscale": "ABLSjI00G002000I",
+		"sesso": "F",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-08-08"
+	},
+	{
+		"nome": "Branden",
+		"cognome": "Chang",
+		"dataNascita": "2004-03-08",
+		"codiceFiscale": "ABWkHI00G004000I",
+		"sesso": "F",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-12-24"
+	},
+	{
+		"nome": "Thaddeus",
+		"cognome": "Lambert",
+		"dataNascita": "2006-01-22",
+		"codiceFiscale": "ABRyzO00G00E000I",
+		"sesso": "F",
+		"categoria": "U15",
+		"scadenzaCertificato": "2026-11-08"
+	},
+	{
+		"nome": "Emerson",
+		"cognome": "Sparks",
+		"dataNascita": "2013-01-14",
+		"codiceFiscale": "ABGyHi00G00B000I",
+		"sesso": "F",
+		"categoria": "U15",
+		"scadenzaCertificato": "2027-01-03"
+	},
+	{
+		"nome": "Allen",
+		"cognome": "Valencia",
+		"dataNascita": "2010-08-21",
+		"codiceFiscale": "ABYQgi00G005000I",
+		"sesso": "M",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-03-16"
+	},
+	{
+		"nome": "Hedley",
+		"cognome": "Atkinson",
+		"dataNascita": "2006-06-12",
+		"codiceFiscale": "ABXOFE00G007000I",
+		"sesso": "F",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-02-13"
+	},
+	{
+		"nome": "Gannon",
+		"cognome": "Ramirez",
+		"dataNascita": "2013-03-01",
+		"codiceFiscale": "ABTSlo00G004000I",
+		"sesso": "F",
+		"categoria": "U19",
+		"scadenzaCertificato": "2026-05-26"
+	},
+	{
+		"nome": "Patrick",
+		"cognome": "Gardner",
+		"dataNascita": "2011-09-05",
+		"codiceFiscale": "ABTKYo00G006000I",
+		"sesso": "F",
+		"categoria": "U15",
+		"scadenzaCertificato": "2026-08-19"
+	},
+	{
+		"nome": "Rajah",
+		"cognome": "Johnston",
+		"dataNascita": "2015-06-23",
+		"codiceFiscale": "ABJXdi00G004000I",
+		"sesso": "M",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-09-22"
+	},
+	{
+		"nome": "Ethan",
+		"cognome": "Underwood",
+		"dataNascita": "2014-11-24",
+		"codiceFiscale": "ABMrvO00G009000I",
+		"sesso": "M",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-11-08"
+	},
+	{
+		"nome": "Hammett",
+		"cognome": "Hebert",
+		"dataNascita": "2007-05-05",
+		"codiceFiscale": "ABVgYe00G00F000I",
+		"sesso": "F",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-04-22"
+	},
+	{
+		"nome": "Brock",
+		"cognome": "Whitaker",
+		"dataNascita": "2008-12-27",
+		"codiceFiscale": "ABMNCo00G002000I",
+		"sesso": "M",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-09-28"
+	},
+	{
+		"nome": "Cadman",
+		"cognome": "Zamora",
+		"dataNascita": "2015-09-17",
+		"codiceFiscale": "ABPYpe00G004000I",
+		"sesso": "M",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-08-15"
+	},
+	{
+		"nome": "Abbot",
+		"cognome": "Peters",
+		"dataNascita": "2000-12-20",
+		"codiceFiscale": "ABZDtu00G00F000I",
+		"sesso": "M",
+		"categoria": "U13",
+		"scadenzaCertificato": "2026-01-15"
+	},
+	{
+		"nome": "Warren",
+		"cognome": "Small",
+		"dataNascita": "1999-02-22",
+		"codiceFiscale": "ABHOYi00G00B000I",
+		"sesso": "F",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-10-20"
+	},
+	{
+		"nome": "Neil",
+		"cognome": "Duncan",
+		"dataNascita": "2014-09-02",
+		"codiceFiscale": "ABXqKa00G008000I",
+		"sesso": "M",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-06-25"
+	},
+	{
+		"nome": "Hoyt",
+		"cognome": "Burton",
+		"dataNascita": "2005-08-02",
+		"codiceFiscale": "ABPbXo00G007000I",
+		"sesso": "M",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-08-27"
+	},
+	{
+		"nome": "Ira",
+		"cognome": "Lopez",
+		"dataNascita": "2004-08-06",
+		"codiceFiscale": "ABBRfA00G00E000I",
+		"sesso": "F",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-07-28"
+	},
+	{
+		"nome": "Shad",
+		"cognome": "Mccormick",
+		"dataNascita": "2015-11-02",
+		"codiceFiscale": "ABGNHi00G006000I",
+		"sesso": "F",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-05-27"
+	},
+	{
+		"nome": "Jin",
+		"cognome": "George",
+		"dataNascita": "2005-01-24",
+		"codiceFiscale": "ABKcci00G004000I",
+		"sesso": "M",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-11-20"
+	},
+	{
+		"nome": "Hector",
+		"cognome": "Hooper",
+		"dataNascita": "2011-01-26",
+		"codiceFiscale": "ABMvnO00G00A000I",
+		"sesso": "M",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-10-04"
+	},
+	{
+		"nome": "Flynn",
+		"cognome": "Stanton",
+		"dataNascita": "2011-03-16",
+		"codiceFiscale": "ABRSyu00G008000I",
+		"sesso": "F",
+		"categoria": "U13",
+		"scadenzaCertificato": "2026-10-01"
+	},
+	{
+		"nome": "Dorian",
+		"cognome": "Patterson",
+		"dataNascita": "2010-05-01",
+		"codiceFiscale": "ABDTHa00G007000I",
+		"sesso": "M",
+		"categoria": "U13",
+		"scadenzaCertificato": "2026-12-07"
+	},
+	{
+		"nome": "Marvin",
+		"cognome": "Sampson",
+		"dataNascita": "2013-01-17",
+		"codiceFiscale": "ABHfNE00G003000I",
+		"sesso": "F",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-01-30"
+	},
+	{
+		"nome": "Emmanuel",
+		"cognome": "Gamble",
+		"dataNascita": "2013-10-23",
+		"codiceFiscale": "ABCaqe00G00F000I",
+		"sesso": "F",
+		"categoria": "U13",
+		"scadenzaCertificato": "2026-02-13"
+	},
+	{
+		"nome": "Leroy",
+		"cognome": "Dyer",
+		"dataNascita": "2004-05-13",
+		"codiceFiscale": "ABHqjI00G002000I",
+		"sesso": "F",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-12-20"
+	},
+	{
+		"nome": "Hashim",
+		"cognome": "Mckay",
+		"dataNascita": "2014-05-29",
+		"codiceFiscale": "ABNbbO00G001000I",
+		"sesso": "F",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-01-26"
+	},
+	{
+		"nome": "Patrick",
+		"cognome": "Buchanan",
+		"dataNascita": "2005-01-09",
+		"codiceFiscale": "ABSfpu00G007000I",
+		"sesso": "F",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-06-15"
+	},
+	{
+		"nome": "Elliott",
+		"cognome": "Shelton",
+		"dataNascita": "2005-12-31",
+		"codiceFiscale": "ABVuPO00G00D000I",
+		"sesso": "F",
+		"categoria": "U19",
+		"scadenzaCertificato": "2026-09-27"
+	},
+	{
+		"nome": "Alec",
+		"cognome": "Merritt",
+		"dataNascita": "2011-05-02",
+		"codiceFiscale": "ABMvWO00G009000I",
+		"sesso": "M",
+		"categoria": "U15",
+		"scadenzaCertificato": "2026-03-13"
+	},
+	{
+		"nome": "Ethan",
+		"cognome": "Copeland",
+		"dataNascita": "2013-04-11",
+		"codiceFiscale": "ABDCYA00G006000I",
+		"sesso": "M",
+		"categoria": "U19",
+		"scadenzaCertificato": "2026-12-16"
+	},
+	{
+		"nome": "Evan",
+		"cognome": "Bonner",
+		"dataNascita": "1996-06-25",
+		"codiceFiscale": "ABSCRU00G00E000I",
+		"sesso": "M",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-11-23"
+	},
+	{
+		"nome": "Drake",
+		"cognome": "England",
+		"dataNascita": "1999-03-04",
+		"codiceFiscale": "ABGero00G004000I",
+		"sesso": "M",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-11-01"
+	},
+	{
+		"nome": "Mason",
+		"cognome": "Davenport",
+		"dataNascita": "2003-06-10",
+		"codiceFiscale": "ABNUNE00G00A000I",
+		"sesso": "F",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-04-07"
+	},
+	{
+		"nome": "Solomon",
+		"cognome": "Lopez",
+		"dataNascita": "2006-06-18",
+		"codiceFiscale": "ABFMPA00G00D000I",
+		"sesso": "M",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-10-13"
+	},
+	{
+		"nome": "Wylie",
+		"cognome": "Hughes",
+		"dataNascita": "2004-05-15",
+		"codiceFiscale": "ABMbtU00G002000I",
+		"sesso": "F",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-04-19"
+	},
+	{
+		"nome": "Hop",
+		"cognome": "Rios",
+		"dataNascita": "2002-06-15",
+		"codiceFiscale": "ABKgKE00G001000I",
+		"sesso": "M",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-01-24"
+	},
+	{
+		"nome": "Keaton",
+		"cognome": "Erickson",
+		"dataNascita": "2014-11-03",
+		"codiceFiscale": "ABJFMA00G008000I",
+		"sesso": "M",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-05-27"
+	},
+	{
+		"nome": "Hashim",
+		"cognome": "England",
+		"dataNascita": "1999-10-05",
+		"codiceFiscale": "ABQvbe00G004000I",
+		"sesso": "M",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-04-14"
+	},
+	{
+		"nome": "Nicholas",
+		"cognome": "Pennington",
+		"dataNascita": "2011-08-05",
+		"codiceFiscale": "ABDgnO00G007000I",
+		"sesso": "M",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-08-11"
+	},
+	{
+		"nome": "Shad",
+		"cognome": "Parks",
+		"dataNascita": "2010-08-22",
+		"codiceFiscale": "ABMqWa00G00F000I",
+		"sesso": "M",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-06-21"
+	},
+	{
+		"nome": "Griffith",
+		"cognome": "Roberson",
+		"dataNascita": "2004-03-29",
+		"codiceFiscale": "ABVbjE00G00E000I",
+		"sesso": "F",
+		"categoria": "U15",
+		"scadenzaCertificato": "2026-04-06"
+	},
+	{
+		"nome": "Stephen",
+		"cognome": "Dyer",
+		"dataNascita": "2001-12-10",
+		"codiceFiscale": "ABSdqo00G00A000I",
+		"sesso": "M",
+		"categoria": "U15",
+		"scadenzaCertificato": "2026-02-01"
+	},
+	{
+		"nome": "Barry",
+		"cognome": "Cochran",
+		"dataNascita": "1995-08-06",
+		"codiceFiscale": "ABJKvO00G000000I",
+		"sesso": "F",
+		"categoria": "U13",
+		"scadenzaCertificato": "2026-08-05"
+	},
+	{
+		"nome": "August",
+		"cognome": "Miranda",
+		"dataNascita": "2014-12-21",
+		"codiceFiscale": "ABYHhO00G001000I",
+		"sesso": "M",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-09-23"
+	},
+	{
+		"nome": "Edward",
+		"cognome": "Parker",
+		"dataNascita": "1997-03-17",
+		"codiceFiscale": "ABTHjO00G004000I",
+		"sesso": "F",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-03-10"
+	},
+	{
+		"nome": "Ciaran",
+		"cognome": "Adkins",
+		"dataNascita": "2011-05-09",
+		"codiceFiscale": "ABNhrE00G00D000I",
+		"sesso": "M",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-09-11"
+	},
+	{
+		"nome": "Thaddeus",
+		"cognome": "Lancaster",
+		"dataNascita": "1997-02-24",
+		"codiceFiscale": "ABJeco00G009000I",
+		"sesso": "F",
+		"categoria": "U13",
+		"scadenzaCertificato": "2026-06-04"
+	},
+	{
+		"nome": "Colby",
+		"cognome": "Hopper",
+		"dataNascita": "2002-08-13",
+		"codiceFiscale": "ABXfhO00G001000I",
+		"sesso": "M",
+		"categoria": "U15",
+		"scadenzaCertificato": "2026-11-21"
+	},
+	{
+		"nome": "Fitzgerald",
+		"cognome": "Long",
+		"dataNascita": "2008-05-04",
+		"codiceFiscale": "ABXAHo00G002000I",
+		"sesso": "M",
+		"categoria": "U19",
+		"scadenzaCertificato": "2026-08-12"
+	},
+	{
+		"nome": "Kermit",
+		"cognome": "Jenkins",
+		"dataNascita": "2011-05-29",
+		"codiceFiscale": "ABFMtU00G00C000I",
+		"sesso": "F",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-10-16"
+	},
+	{
+		"nome": "Phillip",
+		"cognome": "Kidd",
+		"dataNascita": "2002-04-13",
+		"codiceFiscale": "ABHeBO00G006000I",
+		"sesso": "F",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-10-04"
+	},
+	{
+		"nome": "Yoshio",
+		"cognome": "Shaw",
+		"dataNascita": "1995-01-04",
+		"codiceFiscale": "ABTlqo00G003000I",
+		"sesso": "M",
+		"categoria": "U19",
+		"scadenzaCertificato": "2026-08-02"
+	},
+	{
+		"nome": "Dylan",
+		"cognome": "Mcconnell",
+		"dataNascita": "2010-05-01",
+		"codiceFiscale": "ABLemE00G00A000I",
+		"sesso": "M",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-10-17"
+	},
+	{
+		"nome": "Wing",
+		"cognome": "Conway",
+		"dataNascita": "2002-01-05",
+		"codiceFiscale": "ABZmZo00G001000I",
+		"sesso": "F",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2027-01-13"
+	},
+	{
+		"nome": "Brandon",
+		"cognome": "Douglas",
+		"dataNascita": "2006-07-15",
+		"codiceFiscale": "ABSXna00G008000I",
+		"sesso": "F",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-03-15"
+	},
+	{
+		"nome": "Quinlan",
+		"cognome": "Hartman",
+		"dataNascita": "1995-05-27",
+		"codiceFiscale": "ABHLPi00G002000I",
+		"sesso": "F",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-07-09"
+	},
+	{
+		"nome": "Garrett",
+		"cognome": "Fields",
+		"dataNascita": "2015-02-12",
+		"codiceFiscale": "ABJSLE00G004000I",
+		"sesso": "M",
+		"categoria": "U19",
+		"scadenzaCertificato": "2026-09-04"
+	},
+	{
+		"nome": "Burke",
+		"cognome": "Mathis",
+		"dataNascita": "2013-10-18",
+		"codiceFiscale": "ABYTMe00G00B000I",
+		"sesso": "M",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-07-21"
+	},
+	{
+		"nome": "Dominic",
+		"cognome": "Gross",
+		"dataNascita": "2004-03-09",
+		"codiceFiscale": "ABKaDI00G004000I",
+		"sesso": "F",
+		"categoria": "U15",
+		"scadenzaCertificato": "2027-01-09"
+	},
+	{
+		"nome": "Keegan",
+		"cognome": "Freeman",
+		"dataNascita": "1998-04-30",
+		"codiceFiscale": "ABSjXI00G005000I",
+		"sesso": "F",
+		"categoria": "U15",
+		"scadenzaCertificato": "2026-01-02"
+	},
+	{
+		"nome": "Eric",
+		"cognome": "Payne",
+		"dataNascita": "2004-06-04",
+		"codiceFiscale": "ABDlGO00G00C000I",
+		"sesso": "F",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-12-02"
+	},
+	{
+		"nome": "Clarke",
+		"cognome": "Berry",
+		"dataNascita": "1997-03-23",
+		"codiceFiscale": "ABVRXa00G00C000I",
+		"sesso": "M",
+		"categoria": "U15",
+		"scadenzaCertificato": "2026-01-31"
+	},
+	{
+		"nome": "Griffith",
+		"cognome": "Dalton",
+		"dataNascita": "2003-09-13",
+		"codiceFiscale": "ABCvku00G006000I",
+		"sesso": "M",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-03-13"
+	},
+	{
+		"nome": "Branden",
+		"cognome": "Browning",
+		"dataNascita": "2013-06-14",
+		"codiceFiscale": "ABSBWE00G009000I",
+		"sesso": "M",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-05-25"
+	},
+	{
+		"nome": "Arthur",
+		"cognome": "Collins",
+		"dataNascita": "1996-06-14",
+		"codiceFiscale": "ABSmTA00G00A000I",
+		"sesso": "F",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2027-01-14"
+	},
+	{
+		"nome": "Thaddeus",
+		"cognome": "Cardenas",
+		"dataNascita": "2004-11-25",
+		"codiceFiscale": "ABVmYO00G004000I",
+		"sesso": "F",
+		"categoria": "U13",
+		"scadenzaCertificato": "2026-11-29"
+	},
+	{
+		"nome": "Benedict",
+		"cognome": "Spence",
+		"dataNascita": "2008-05-30",
+		"codiceFiscale": "ABDlbU00G001000I",
+		"sesso": "M",
+		"categoria": "U19",
+		"scadenzaCertificato": "2026-08-01"
+	},
+	{
+		"nome": "Ulysses",
+		"cognome": "Grimes",
+		"dataNascita": "2007-05-29",
+		"codiceFiscale": "ABYTda00G004000I",
+		"sesso": "F",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-03-02"
+	},
+	{
+		"nome": "Logan",
+		"cognome": "Cobb",
+		"dataNascita": "1996-04-23",
+		"codiceFiscale": "ABGwli00G00A000I",
+		"sesso": "M",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-01-12"
+	},
+	{
+		"nome": "Abraham",
+		"cognome": "Koch",
+		"dataNascita": "2001-05-26",
+		"codiceFiscale": "ABVsHo00G002000I",
+		"sesso": "M",
+		"categoria": "U15",
+		"scadenzaCertificato": "2026-07-23"
+	},
+	{
+		"nome": "Phillip",
+		"cognome": "Herring",
+		"dataNascita": "1995-12-12",
+		"codiceFiscale": "ABXWvI00G00E000I",
+		"sesso": "F",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-01-27"
+	},
+	{
+		"nome": "Harper",
+		"cognome": "Riddle",
+		"dataNascita": "1995-02-11",
+		"codiceFiscale": "ABCXse00G003000I",
+		"sesso": "M",
+		"categoria": "PRIMA_SQUADRA",
+		"scadenzaCertificato": "2026-07-09"
+	},
+	{
+		"nome": "Baker",
+		"cognome": "Holden",
+		"dataNascita": "2010-12-11",
+		"codiceFiscale": "ABCZLu00G00E000I",
+		"sesso": "M",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-12-02"
+	},
+	{
+		"nome": "Zachery",
+		"cognome": "Berg",
+		"dataNascita": "2004-02-01",
+		"codiceFiscale": "ABHDlO00G00D000I",
+		"sesso": "F",
+		"categoria": "U17",
+		"scadenzaCertificato": "2026-05-12"
+	},
+	{
+		"nome": "Ezra",
+		"cognome": "Moss",
+		"dataNascita": "1997-12-18",
+		"codiceFiscale": "ABHUPU00G008000I",
+		"sesso": "M",
+		"categoria": "U13",
+		"scadenzaCertificato": "2026-11-05"
+	},
+	{
+		"nome": "Owen",
+		"cognome": "Hinton",
+		"dataNascita": "2003-03-08",
+		"codiceFiscale": "ABXbwe00G002000I",
+		"sesso": "M",
+		"categoria": "U19",
+		"scadenzaCertificato": "2026-01-27"
+	},
+	{
+		"nome": "Driscoll",
+		"cognome": "Noel",
+		"dataNascita": "2011-02-19",
+		"codiceFiscale": "ABGLLI00G009000I",
+		"sesso": "F",
+		"categoria": "U19",
+		"scadenzaCertificato": "2026-08-26"
+	},
+	{
+		"nome": "Judah",
+		"cognome": "Murphy",
+		"dataNascita": "1997-01-25",
+		"codiceFiscale": "ABYOWO00G00D000I",
+		"sesso": "M",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-12-24"
+	},
+	{
+		"nome": "Clinton",
+		"cognome": "Boyer",
+		"dataNascita": "2001-06-12",
+		"codiceFiscale": "ABSLZi00G006000I",
+		"sesso": "M",
+		"categoria": "U14",
+		"scadenzaCertificato": "2026-11-28"
+	},
+	{
+		"nome": "Evan",
+		"cognome": "Johnston",
+		"dataNascita": "1999-08-09",
+		"codiceFiscale": "ABPDMe00G002000I",
+		"sesso": "M",
+		"categoria": "U19",
+		"scadenzaCertificato": "2026-07-11"
+	},
+	{
+		"nome": "Nasim",
+		"cognome": "Blanchard",
+		"dataNascita": "2003-01-07",
+		"codiceFiscale": "ABReyE00G007000I",
+		"sesso": "M",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-08-03"
+	},
+	{
+		"nome": "Travis",
+		"cognome": "Fuentes",
+		"dataNascita": "1995-07-18",
+		"codiceFiscale": "ABDJwO00G003000I",
+		"sesso": "F",
+		"categoria": "U19",
+		"scadenzaCertificato": "2026-03-16"
+	},
+	{
+		"nome": "Wayne",
+		"cognome": "Hammond",
+		"dataNascita": "2009-03-17",
+		"codiceFiscale": "ABHtto00G007000I",
+		"sesso": "F",
+		"categoria": "U19",
+		"scadenzaCertificato": "2026-09-19"
+	},
+	{
+		"nome": "Emmanuel",
+		"cognome": "Rollins",
+		"dataNascita": "2013-10-10",
+		"codiceFiscale": "ABSlca00G00F000I",
+		"sesso": "M",
+		"categoria": "ESORDIENTI",
+		"scadenzaCertificato": "2026-05-29"
+	}
+]

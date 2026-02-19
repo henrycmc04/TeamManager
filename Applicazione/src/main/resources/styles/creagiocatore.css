@@ -1,0 +1,52 @@
+/* Sfondo della finestra */
+.root {
+    -fx-background-color: #ffffff;
+    -fx-font-family: "Segoe UI", sans-serif;
+}
+
+/* Titolo: Registrazione Nuovo Atleta */
+.header-label-form {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #1e3a8a; /* Blu scuro */
+    -fx-padding: 0 0 10 0;
+}
+
+/* Stile per le etichette (Nome, Cognome, ecc.) */
+.label {
+    -fx-text-fill: #1e3a8a;
+    -fx-font-weight: bold;
+}
+
+/* Campi di input */
+.text-field, .date-picker, .combo-box {
+    -fx-background-color: white;
+    -fx-border-color: #e5e7eb;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+.text-field:focused {
+    -fx-border-color: #1e3a8a;
+}
+
+/* IL TUO STILE BLU E ORO (Bottoni) */
+.primary-action {
+    -fx-background-color: #1e3a8a;
+    -fx-text-fill: #FFD700; /* Oro */
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+    -fx-background-radius: 6;
+}
+
+.primary-action:hover {
+    -fx-background-color: #2739b3;
+}
+
+.secondary-action {
+    -fx-background-color: #f3f4f6;
+    -fx-text-fill: #1e3a8a;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+    -fx-background-radius: 6;
+}
